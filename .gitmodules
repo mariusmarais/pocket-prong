@@ -1,0 +1,44 @@
+[submodule "research/upstream/btt-ceb-can-hub"]
+	path = research/upstream/btt-ceb-can-hub
+	url = https://github.com/bigtreetech/CEB
+	branch = master
+[submodule "research/upstream/btt-eddy-bed-probe"]
+	path = research/upstream/btt-eddy-bed-probe
+	url = https://github.com/bigtreetech/Eddy
+	branch = master
+[submodule "research/upstream/voron-tap-nozzle-probe"]
+	path = research/upstream/voron-tap-nozzle-probe
+	url = https://github.com/VoronDesign/Voron-Tap
+	branch = main
+[submodule "research/upstream/voron-parts-optional"]
+	path = research/upstream/voron-parts-optional
+	url = https://github.com/VoronDesign/Voron-Parts
+	branch = main
+[submodule "research/upstream/voron-stealthburner-toolhead"]
+	path = research/upstream/voron-stealthburner-toolhead
+	url = https://github.com/VoronDesign/Voron-Stealthburner
+	branch = main
+[submodule "research/upstream/btt-skr-pico-mainboard"]
+	path = research/upstream/btt-skr-pico-mainboard
+	url = https://github.com/bigtreetech/SKR-Pico
+	branch = master
+[submodule "research/upstream/btt-octopus-pro-mainboard"]
+	path = research/upstream/btt-octopus-pro-mainboard
+	url = https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro
+	branch = master
+[submodule "research/upstream/btt-ebb-expander-boards"]
+	path = research/upstream/btt-ebb-expander-boards
+	url = https://github.com/bigtreetech/EBB
+	branch = master
+[submodule "research/upstream/btt-mini-ups"]
+	path = research/upstream/btt-mini-ups
+	url = https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0
+	branch = master
+[submodule "research/upstream/chaoticlab-cnc-tap-nozzle-probe"]
+	path = research/upstream/chaoticlab-cnc-tap-nozzle-probe
+	url = https://github.com/Chaoticlab/CNC-Tap-for-Voron
+	branch = master
+[submodule "research/upstream/voron-trident"]
+	path = research/upstream/voron-trident
+	url = https://github.com/VoronDesign/Voron-Trident
+	branch = main
